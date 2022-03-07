@@ -1,0 +1,1002 @@
+@media (min-width:1400px) and (max-width:1600px){
+    #about {
+        padding-top: 72px;
+        padding-bottom: 80px;
+    }
+    .about-text p {
+        padding-bottom: 35px;
+    }
+    .instacam-end {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .instacam-end-last {
+        padding-top: 45px;
+    }
+    .instacam-end-hader h1 {
+        padding-bottom: 44px;
+    }
+    .news-right-items {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .news-right-img {
+        padding-top: 35px;
+    }
+    .news-right-end a {
+        padding: 7px;
+    }
+    .news-right-end {
+        padding: 24px 0px;
+    }
+}
+@media (min-width:1200px) and (max-width:1399px){
+    .bannar-img {
+        top: 150px;
+        transform: scale(.8);
+    }
+    .plus-four {
+        top: 130px;
+        left: 71px;
+    }
+    .features-items:hover .common1::before {
+        bottom: 158px;
+        height: 62px;
+    }
+    .plus-two-one {
+        bottom: 105px;
+        left: 205px;
+    }
+}
+@media (min-width:992px) and (max-width:1199px) {
+    .bannar-img {
+        top: 157px;
+        right: -98px;
+        transform: scale(.7);
+    }
+
+    .bannar-content h1 {
+        font-size: 67px;
+    }
+
+    .about-img {
+        left: 0px;
+    }
+
+    .plus-one {
+        left: 121px;
+    }
+
+    .features-items:hover .common::before {
+        right: -164px;
+        height: 99px;
+    }
+
+    .features-items:hover .common::after {
+        right: -164px;
+        width: 163px;
+    }
+
+    .plus-four {
+        top: 81px;
+        left: 47px;
+    }
+
+    .features-items:hover .common1::before {
+        bottom: 182px;
+        right: -92px;
+        height: 100px;
+    }
+
+    .features-items:hover .common1::after {
+        right: -92px;
+        width: 92px;
+    }
+
+    .plus-two-four {
+        right: 52px;
+    }
+
+    .features-items:hover .common3::before {
+        left: -97px;
+        height: 138px;
+    }
+
+    .features-items:hover .common3::after {
+        left: -97px;
+        width: 97px;
+    }
+
+    .plus-two-one {
+        bottom: 78px;
+        left: 160px;
+    }
+
+    .features-items:hover .common4::before {
+        bottom: 183px;
+        left: -139px;
+        height: 53px;
+    }
+
+    .features-items:hover .common4::after {
+        left: -139px;
+        width: 139px;
+    }
+
+    .instacam-end-last a {
+        padding: 16px 35px;
+    }
+
+    .instacam-end-content h1 {
+        font-size: 14px;
+        padding-bottom: 15px;
+    }
+
+    .news-right-items {
+        padding-top: 8px;
+        padding-bottom: 17px;
+    }
+
+    .news-right-readmore {
+        padding-top: 0px;
+    }
+
+    .news-right-content {
+        padding-top: 0px;
+    }
+
+    .news-right-img {
+        padding-top: 5px;
+    }
+
+    .news-right-end {
+        padding: 0px 0px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+    [type=button]:not(:disabled),
+    [type=reset]:not(:disabled),
+    [type=submit]:not(:disabled),
+    #accordion button:not(:disabled) {
+        background: transparent;
+    }
+
+    .navbar-nav {
+        background-color: #E1F1FF;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        top: 0;
+    }
+
+    .nav-serch {
+        margin: 0 auto;
+    }
+
+    .bannar-img {
+        top: 128px;
+        right: -186px;
+        transform: scale(.5);
+    }
+
+    .bannar-content h2 {
+        font-size: 60px;
+    }
+
+    .bannar-content h1 {
+        font-size: 60px;
+    }
+
+    .bannar-content h3 {
+        font-size: 60px;
+    }
+
+    .bannar-content h3 {
+        margin-bottom: 30px;
+    }
+
+    .features-items:hover .common::after {
+        display: none;
+    }
+
+    .features-items:hover .common::before {
+        display: none;
+    }
+
+    .features-items:hover .common1::after {
+        display: none;
+    }
+
+    .features-items:hover .common1::before {
+        display: none;
+    }
+
+    .features-items:hover .common4::before {
+        display: none;
+    }
+
+    .features-items:hover .common4::after {
+        display: none;
+    }
+
+    .features-items:hover .common3::before {
+        display: none;
+    }
+
+    .features-items:hover .common3::after {
+        display: none;
+    }
+
+    .plus-four {
+        top: 58px;
+        left: 38px;
+    }
+
+    .plus-one {
+        top: -22px;
+        left: 92px;
+    }
+
+    .plus-two-four {
+        top: 59px;
+        right: 47px;
+    }
+
+    .plus-two-one {
+        bottom: 114px;
+        left: 142px;
+    }
+
+    #about {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+
+    .about-content h2 {
+        padding-bottom: 10px;
+    }
+
+    .about-img {
+        left: -20px;
+    }
+
+    .about-text p {
+        padding-bottom: 5px;
+    }
+
+    .camera-img {
+        top: 375px;
+    }
+
+    .camera-end {
+        padding-bottom: 282px;
+    }
+
+    .instacam-end-content h1 {
+        font-size: 19px;
+        padding-bottom: 37px;
+    }
+
+    .news-right-items {
+        padding-top: 40px;
+        padding-bottom: 81px;
+    }
+
+    .news-right-readmore {
+        padding-top: 40px;
+    }
+
+    .news-right-content {
+        padding-top: 40px;
+    }
+
+    .news-right-img {
+        padding-top: 40px;
+    }
+
+    .news-right-content p {
+        font-size: 16px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+
+    [type=button]:not(:disabled),
+    [type=reset]:not(:disabled),
+    [type=submit]:not(:disabled),
+    #accordion button:not(:disabled) {
+        background: transparent;
+    }
+
+    .navbar-nav {
+        background-color: #E1F1FF;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        top: 0;
+    }
+
+    .nav-serch {
+        margin: 0 auto;
+    }
+
+    #bannar {
+        padding-bottom: 205px;
+    }
+
+    .bannar-content h2 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .bannar-content h1 {
+        text-align: center;
+    }
+
+    .bannar-content h3 {
+        text-align: center;
+    }
+
+    .bannar-img {
+        left: 50%;
+        top: 466px;
+        transform: translateX(-50%)scale(.7);
+        -webkit-transform: translateX(-50%)scale(.7);
+        -moz-transform: translateX(-50%)scale(.7);
+        -ms-transform: translateX(-50%)scale(.7);
+        -o-transform: translateX(-50%)scale(.7);
+    }
+
+    .features-items:hover .common::after {
+        display: none;
+    }
+
+    .features-items:hover .common::before {
+        display: none;
+    }
+
+    .features-items:hover .common1::after {
+        display: none;
+    }
+
+    .features-items:hover .common1::before {
+        display: none;
+    }
+
+    .features-items:hover .common4::before {
+        display: none;
+    }
+
+    .features-items:hover .common4::after {
+        display: none;
+    }
+
+    .features-items:hover .common3::before {
+        display: none;
+    }
+
+    .features-items:hover .common3::after {
+        display: none;
+    }
+
+    .plus-one {
+        left: 259px;
+    }
+
+    .plus-four {
+        top: 206px;
+        left: 108px;
+    }
+
+    .plus-two-one {
+        bottom: 154px;
+        left: 317px;
+    }
+
+    .plus-two-four {
+        top: 50px;
+        right: 115px;
+    }
+
+    .about-content p {
+        padding-right: 0px;
+    }
+
+    .about-text p {
+        padding-right: 0px;
+    }
+
+    .about-img {
+        top: -49px;
+        left: -68px;
+        transform: scale(.7);
+    }
+
+    .camera-video {
+        top: 0;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+
+    .camera-h-text {
+        top: 40px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .camera-img {
+        top: 221px;
+        transform: translateX(-50%) scale(.9);
+        left: 50%;
+    }
+
+    .instacam-end-content h1 {
+        font-size: 15px;
+        padding-bottom: 21px;
+    }
+
+    .testimonial-text {
+        padding-bottom: 36px;
+    }
+
+    .news-right-content p {
+        font-size: 13px;
+    }
+
+    .news-right-readmore {
+        padding-top: 0px;
+    }
+
+    .news-right-items {
+        padding-top: 15px;
+        padding-bottom: 25px;
+    }
+
+    .news-right-end {
+        padding: 5px 0px;
+    }
+
+    .footer-manubar ul li {
+        padding: 0px 15px;
+    }
+}
+
+@media (min-width: 457px) and (max-width:575px) {
+
+    [type=button]:not(:disabled),
+    [type=reset]:not(:disabled),
+    [type=submit]:not(:disabled),
+    #accordion button:not(:disabled) {
+        background: transparent;
+    }
+
+    #bannar {
+        padding-top: 80px;
+        padding-bottom: 150px;
+    }
+
+    .bannar-content h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .bannar-content h1 {
+        font-size: 35px;
+        margin-top: 6px;
+        text-align: center;
+    }
+
+    .bannar-content h3 {
+        font-size: 35px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .bannar-img {
+        left: 50%;
+        top: 245px;
+        transform: translateX(-50%)scale(.7);
+        -webkit-transform: translateX(-50%)scale(.7);
+        -moz-transform: translateX(-50%)scale(.7);
+        -ms-transform: translateX(-50%)scale(.7);
+        -o-transform: translateX(-50%)scale(.7);
+    }
+
+    .Explore-More a {
+        font-size: 17px;
+    }
+
+    .navbar-nav {
+        background-color: #E1F1FF;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        top: 0;
+    }
+
+    .nav-serch {
+        margin: 0 auto;
+    }
+
+    #features {
+        padding-top: 100px;
+    }
+
+    .features-heder p {
+        font-size: 13px;
+    }
+
+    .extra {
+        padding-top: 15px;
+    }
+
+    .features-text h1 {
+        font-size: 19px;
+        margin-top: 15px;
+    }
+
+    .features-text p {
+        font-size: 13px;
+        margin-top: 19px;
+        margin-right: 0px;
+    }
+
+    .features-items:hover .common::after {
+        display: none;
+    }
+
+    .features-items:hover .common::before {
+        display: none;
+    }
+
+    .features-items:hover .common1::after {
+        display: none;
+    }
+
+    .features-items:hover .common1::before {
+        display: none;
+    }
+
+    .plus-four {
+        top: 166px;
+        left: 89px;
+    }
+
+    .plus-one {
+        left: 212px;
+    }
+
+    .plus-two-four {
+        top: 35px;
+        right: 84px;
+    }
+
+    .plus-two-one {
+        bottom: 127px;
+        left: 260px;
+    }
+
+    .features-items:hover .common4::before {
+        display: none;
+    }
+
+    .features-items:hover .common4::after {
+        display: none;
+    }
+
+    .features-items:hover .common3::before {
+        display: none;
+    }
+
+    .features-items:hover .common3::after {
+        display: none;
+    }
+
+    #about {
+        padding-top: 283px;
+    }
+
+    .about-content h1 {
+        font-size: 25px;
+        padding-top: 0px;
+        text-align: center;
+    }
+
+    .about-content h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .about-content p {
+        font-size: 13px;
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .about-text p {
+        font-size: 13px;
+        padding-right: 0px;
+    }
+
+    .about-img {
+        bottom: 820px;
+        left: 50%;
+        transform: translateX(-50%)scale(.7);
+    }
+
+    #accordion {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .accordion-button {
+        font-size: 14px;
+    }
+
+    .accordion-heder h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .accordion-content h1 {
+        font-size: 25px;
+    }
+
+    .camera-left {
+        padding-left: 5px;
+    }
+
+    .camera-text h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .camera-text p {
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .camera-end {
+        padding-bottom: 190px;
+    }
+
+    .camera-img {
+        top: 200px;
+        transform: translateX(-50%) scale(.8);
+        left: 50%;
+    }
+
+    .camera-video {
+        top: 0;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+
+    .camera-h-text {
+        top: 40px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #instacam {
+        padding-top: 60px;
+    }
+
+    .instacam-icon {
+        right: 0px;
+    }
+
+    .instacam-text {
+        right: 60px;
+    }
+
+    .instacam-end-hader h1 {
+        font-size: 20px;
+    }
+
+    #testimonial {
+        padding-top: 15px;
+    }
+
+    .news-right-end::after {
+        width: 100%;
+    }
+
+    .news-items-wrap {
+        margin: 0px 25px;
+    }
+
+    .footer-manubar ul li {
+        padding: 0px 8px;
+    }
+
+    .footer-manubar ul li a {
+        font-size: 13px;
+    }
+
+    .footer-icon i {
+        line-height: 32px;
+        width: 30px;
+        height: 30px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 456.99px) {
+    .navbar-brand {
+        transform: scale(.7);
+    }
+
+    .ham {
+        width: 40px;
+        height: 40px;
+    }
+
+    [type=button]:not(:disabled),
+    [type=reset]:not(:disabled),
+    [type=submit]:not(:disabled),
+    #accordion button:not(:disabled) {
+        background: transparent;
+    }
+
+    #bannar {
+        padding-top: 80px;
+        padding-bottom: 150px;
+    }
+
+    .bannar-content h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .bannar-content h1 {
+        font-size: 35px;
+        margin-top: 6px;
+        text-align: center;
+    }
+
+    .bannar-content h3 {
+        font-size: 35px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .bannar-img {
+        left: 50%;
+        top: 290px;
+        transform: translateX(-50%)scale(.7);
+        -webkit-transform: translateX(-50%)scale(.7);
+        -moz-transform: translateX(-50%)scale(.7);
+        -ms-transform: translateX(-50%)scale(.7);
+        -o-transform: translateX(-50%)scale(.7);
+    }
+
+    .Explore-More a {
+        font-size: 17px;
+    }
+
+    .navbar-nav {
+        background-color: #E1F1FF;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        top: 0;
+    }
+
+    .nav-serch {
+        margin: 0 auto;
+    }
+
+    #features {
+        padding-top: 100px;
+    }
+
+    .features-heder p {
+        font-size: 13px;
+    }
+
+    .extra {
+        padding-top: 15px;
+    }
+
+    .features-text h1 {
+        font-size: 19px;
+        margin-top: 15px;
+    }
+
+    .features-text p {
+        font-size: 13px;
+        margin-top: 19px;
+        margin-right: 0px;
+    }
+
+    .features-items:hover .common::after {
+        display: none;
+    }
+
+    .features-items:hover .common::before {
+        display: none;
+    }
+
+    .features-items:hover .common1::after {
+        display: none;
+    }
+
+    .features-items:hover .common1::before {
+        display: none;
+    }
+
+    .plus-four {
+        top: 89px;
+        left: 50px;
+    }
+
+    .plus-one {
+        left: 124px;
+    }
+
+    .plus-two-four {
+        top: 25px;
+        right: 50px;
+    }
+
+    .plus-two-one {
+        bottom: 89px;
+        left: 169px;
+    }
+
+    .features-items:hover .common4::before {
+        display: none;
+    }
+
+    .features-items:hover .common4::after {
+        display: none;
+    }
+
+    .features-items:hover .common3::before {
+        display: none;
+    }
+
+    .features-items:hover .common3::after {
+        display: none;
+    }
+
+    #about {
+        padding-top: 114px;
+    }
+
+    .about-content h1 {
+        font-size: 25px;
+        padding-top: 0px;
+        text-align: center;
+    }
+
+    .about-content h2 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .about-content p {
+        font-size: 13px;
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .about-text p {
+        font-size: 13px;
+        padding-right: 0px;
+    }
+
+    .about-img {
+        bottom: 620px;
+        left: 50%;
+        transform: translateX(-50%)scale(.4);
+    }
+
+    #accordion {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .accordion-button {
+        font-size: 14px;
+    }
+
+    .accordion-heder h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .accordion-content h1 {
+        font-size: 25px;
+    }
+
+    .camera-left {
+        padding-left: 5px;
+    }
+
+    .camera-text h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .camera-text p {
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .camera-end {
+        padding-bottom: 190px;
+    }
+
+    .camera-img {
+        top: 250px;
+        transform: translateX(-50%) scale(.8);
+        left: 50%;
+    }
+
+    .camera-video {
+        top: 0;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+
+    .camera-h-text {
+        top: 40px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    #instacam {
+        padding-top: 60px;
+    }
+
+    .instacam-icon {
+        right: 0px;
+    }
+
+    .instacam-text {
+        right: 60px;
+    }
+
+    .instacam-end-hader h1 {
+        font-size: 20px;
+    }
+
+    #testimonial {
+        padding-top: 15px;
+    }
+
+    .news-right-end::after {
+        width: 100%;
+    }
+
+    .news-items-wrap {
+        margin: 0px 25px;
+    }
+
+    .footer-manubar ul li {
+        padding: 0px 8px;
+    }
+
+    .footer-manubar ul li a {
+        font-size: 13px;
+    }
+
+    .footer-icon i {
+        line-height: 32px;
+        width: 30px;
+        height: 30px;
+        font-size: 13px;
+    }
+}
